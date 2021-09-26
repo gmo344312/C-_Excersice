@@ -1,0 +1,12 @@
+E:\Study\C#\Excersice\Login from\bin\Debug\Login from.exe.config
+E:\Study\C#\Excersice\Login from\bin\Debug\Login from.exe
+E:\Study\C#\Excersice\Login from\bin\Debug\Login from.pdb
+E:\Study\C#\Excersice\Login from\obj\Debug\Login from.csproj.AssemblyReference.cache
+E:\Study\C#\Excersice\Login from\obj\Debug\Login_from.FrmLogin.resources
+E:\Study\C#\Excersice\Login from\obj\Debug\Login_from.From_Main.resources
+E:\Study\C#\Excersice\Login from\obj\Debug\Login_from.Properties.Resources.resources
+E:\Study\C#\Excersice\Login from\obj\Debug\Login from.csproj.GenerateResource.cache
+E:\Study\C#\Excersice\Login from\obj\Debug\Login from.csproj.CoreCompileInputs.cache
+E:\Study\C#\Excersice\Login from\obj\Debug\Login from.exe
+E:\Study\C#\Excersice\Login from\obj\Debug\Login from.pdb
+E:\Study\C#\Excersice\Login from\obj\Debug\Login_from.From_Register.resources
